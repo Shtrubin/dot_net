@@ -1,0 +1,7 @@
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\bin\Debug\condition_26821.exe.config
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\bin\Debug\condition_26821.exe
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\bin\Debug\condition_26821.pdb
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\obj\Debug\condition_26821.csproj.AssemblyReference.cache
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\obj\Debug\condition_26821.csproj.CoreCompileInputs.cache
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\obj\Debug\condition_26821.exe
+C:\Users\Ac3\source\repos\condition_26821\condition_26821\obj\Debug\condition_26821.pdb

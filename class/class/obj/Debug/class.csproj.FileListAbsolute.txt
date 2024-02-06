@@ -1,0 +1,7 @@
+C:\Users\Ac3\source\repos\class\class\bin\Debug\@class.exe.config
+C:\Users\Ac3\source\repos\class\class\bin\Debug\@class.exe
+C:\Users\Ac3\source\repos\class\class\bin\Debug\@class.pdb
+C:\Users\Ac3\source\repos\class\class\obj\Debug\class.csproj.AssemblyReference.cache
+C:\Users\Ac3\source\repos\class\class\obj\Debug\class.csproj.CoreCompileInputs.cache
+C:\Users\Ac3\source\repos\class\class\obj\Debug\@class.exe
+C:\Users\Ac3\source\repos\class\class\obj\Debug\@class.pdb

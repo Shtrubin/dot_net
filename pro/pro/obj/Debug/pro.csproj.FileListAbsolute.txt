@@ -1,0 +1,7 @@
+C:\Users\Ac3\source\repos\pro\pro\bin\Debug\pro.exe.config
+C:\Users\Ac3\source\repos\pro\pro\bin\Debug\pro.exe
+C:\Users\Ac3\source\repos\pro\pro\bin\Debug\pro.pdb
+C:\Users\Ac3\source\repos\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+C:\Users\Ac3\source\repos\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\Ac3\source\repos\pro\pro\obj\Debug\pro.exe
+C:\Users\Ac3\source\repos\pro\pro\obj\Debug\pro.pdb

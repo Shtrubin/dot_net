@@ -1,0 +1,7 @@
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\bin\Debug\addingtwono_26821.exe.config
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\bin\Debug\addingtwono_26821.exe
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\bin\Debug\addingtwono_26821.pdb
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\obj\Debug\addingtwono_26821.csproj.AssemblyReference.cache
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\obj\Debug\addingtwono_26821.csproj.CoreCompileInputs.cache
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\obj\Debug\addingtwono_26821.exe
+C:\Users\Ac3\source\repos\addingtwono_26821\addingtwono_26821\obj\Debug\addingtwono_26821.pdb
